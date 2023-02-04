@@ -9,9 +9,9 @@ public class linearSearch {
             if(a[i]==data){
                 flag=1;
                 break;
-            }
+            } //code commit check
         }
-        
+
         if(flag!=0){
             System.out.println("found");
         }
