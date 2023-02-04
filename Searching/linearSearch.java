@@ -11,6 +11,7 @@ public class linearSearch {
                 break;
             }
         }
+        
         if(flag!=0){
             System.out.println("found");
         }
