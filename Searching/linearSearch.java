@@ -1,7 +1,5 @@
 package Searching;
 
-import javax.lang.model.util.ElementScanner6;
-
 public class linearSearch {
     public static void main(String[] args) {
         int[] a={2,5,3,78,5,4,8};
