@@ -2,9 +2,9 @@ package Sliding_Window;
 // find all anagram in string 
 //fixed size window
 
-import java.util.ArrayList;
+//import java.util.ArrayList;
 import java.util.HashMap;
-import java.util.List;
+//import java.util.List;
 import java.util.Map;
 
 public class findAllAnagramString {
